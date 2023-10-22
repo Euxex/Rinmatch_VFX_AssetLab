@@ -3,12 +3,15 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - FxTemporaire
+  - Effects
+  - MainPiece
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - STAM
   - Water
   - UI
   - 
