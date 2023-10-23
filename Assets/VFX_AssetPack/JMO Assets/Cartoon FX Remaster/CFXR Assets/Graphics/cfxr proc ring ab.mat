@@ -36,7 +36,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _CFXR_DITHERED_SHADOWS: 0
-    - _DissolveSmooth: 0.1
+    - _DissolveSmooth: 0.016
     - _DstBlend: 10
     - _HdrBoost: 0
     - _HdrMultiply: 1
